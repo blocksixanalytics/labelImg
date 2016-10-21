@@ -12,9 +12,9 @@ Download and unpack the [files](https://github.com/blocksixanalytics/labelImg/ar
 
 ## Running the VM
 
-In terminal, execute two commands, <downloaded_files_folder> is a path to the folder above:
+In terminal, execute two commands, *downloaded_files_folder* is a path to the folder above:
 ~~~~
-cd <downloaded_files_folder>
+cd *downloaded_files_folder*
 vagrant up
 ~~~~
 
